@@ -81,3 +81,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Zero Two
 
 Year 2020 for Web Based System in Southern Unversity College
+
+## How to use
+```bash
+Copy .env.example file to .env and edit database credentials there
+Run composer install
+Run php artisan key:generate
+```
